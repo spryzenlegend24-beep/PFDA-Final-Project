@@ -1,7 +1,7 @@
 # Title
 Warrior's Journey
 ## Repository
-<Link to your project's public GitHub respository>
+https://github.com/spryzenlegend24-beep/PFDA-Final-Project.git 
 
 ## Description
 I will create a game where you fight various enemies, with occasional visuals to repesent specific points. 
