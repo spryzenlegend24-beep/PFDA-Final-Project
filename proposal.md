@@ -18,7 +18,7 @@ This is relevant to media and digital arts becuase entrtainment has become a mai
 ## Challenges
 - I may need to research how I can change the target enemy if I decide to do multiple enemies in a fight
 - I will need to research whether I can limit how long an image or gif pops up, and how i can have it close automatically to have the game progress
-- I need to research how to trigeer specifc gifs if when specific events are triggered as opoosed to having them pop uo automatically when the program starts.
+- I need to research how to trigger specifc gifs if when specific events are triggered as opoosed to having them pop uo automatically when the program starts.
 
 ## Outcomes
 Ideal Outcome:
