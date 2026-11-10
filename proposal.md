@@ -1,5 +1,5 @@
 # Title
-PFDA Final Game
+Warrior's Journey
 ## Repository
 <Link to your project's public GitHub respository>
 
@@ -12,31 +12,33 @@ This is relevant to media and digital arts becuase entrtainment has become a mai
 	- I will use the random feature to create damage ranges for both the player and the enemies.
 - Feature 2: When certain milestones are completed, a visual will pop up
 	- I will use 'If' or 'when' statements to trigger specific events
-- Feature N 
-	- Short explaination of how it will be executed.
+- Feature 3:
+	- If possible, I would like to implement a chance for a specific hit to deal double damage (a critical hit)
 
 ## Challenges
-- Short sentence of any skill or topic that needs to be learnt or researched.
-- Short sentence of any skill or topic that needs to be learnt or researched.
-- Short sentence of any skill or topic that needs to be learnt or researched.
+- I may need to research how I can change the target enemy if I decide to do multiple enemies in a fight
+- I will need to research whether I can limit how long an image or gif pops up, and how i can have it close automatically to have the game progress
+- I need to research how to trigeer specifc gifs if when specific events are triggered as opoosed to having them pop uo automatically when the program starts.
 
 ## Outcomes
 Ideal Outcome:
 - Briefly describe what is the ideal outcome?
+- I want a short but functional program that I could show off to friends or family for them to enjoy. 
 
 Minimal Viable Outcome:
 - Briefly describe the bare essential for a good working outcome?
+- The program is at least able to run the fights and dialogue, even if the images dont turn out as planned.
 
 ## Milestones
 
 - Week 1
-  1. Goal 1
-  2. Goal 2
+  1. Research listed challenges
+  2. Create Inventory for player (and potentially enemy) as well as way to stop game
 
 - Week 2
-  1. Goal 1
-  2. Goal 2
+  1. Add additional fights to game
+  2. Add multiple routes to game
 
 - Week N (Final)
-  1. Goal 1
-  2. Goal 2
+  1. Implement gifs and images for specific points of games
+  2. Attempt to add reset button and critical hits
