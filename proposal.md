@@ -23,7 +23,7 @@ This is relevant to media and digital arts becuase entrtainment has become a mai
 ## Outcomes
 Ideal Outcome:
 - Briefly describe what is the ideal outcome?
-- I want a short but functional program that I could show off to friends or family for them to enjoy. 
+- I want a short but functional program that I could show off to friends or family for them to enjoy. I want them to enjoy the small visuals that are added if they get to ceratin parts as well. 
 
 Minimal Viable Outcome:
 - Briefly describe the bare essential for a good working outcome?
