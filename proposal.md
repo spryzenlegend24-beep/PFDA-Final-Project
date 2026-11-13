@@ -9,8 +9,8 @@ I will create celebratory screensaver with changable features to show that I've 
 ## Features
 - Feature 1: fireworks of various sizes and colors will appear on the screen
 	- I will use a similar idea to the digital rain project, but adding more creative details
-- Feature 2: I want to add another animated aspect (most likely a gif) to make the visual more enticing 
-	- I will add simple characters either jumping or waving their hands
+- Feature 2: I want to add another animated aspects to make the visual more enticing 
+	- I will add simple characters either jumping or waving their hands through a looping stateme.nt
  - Feature 3: Interactive UI
     - If possible, I would like to add interactive elements such as changing the text font, the background setting, and/or size and speed of the fireworks. I will do this by having specific features change when a certain key is pressed
 
